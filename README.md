@@ -18,7 +18,9 @@ Html | Css | JS
 * Projetado e prototipado no figma.
 * Responsivo em todos aparelhos.
 * Codificado na IDE visual studio code.
+
 <br>
+
 > # Screenshots
 > <img src="https://user-images.githubusercontent.com/74561722/206309110-008846ba-f906-4db3-9ea4-ea6ee774152a.png" width="900px"/>
 > <img src="https://user-images.githubusercontent.com/74561722/206309907-56132528-08c6-429a-81d1-b376ccb96e38.png" width="900px"/>
